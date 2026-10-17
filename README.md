@@ -1,6 +1,6 @@
 # YuyukoFix
 
-Unofficial fix for [幽幽子大人食欲不振 / Yuyuko is suffering from lack of appetite](https://store.steampowered.com/app/2941200/) (Steam).
+Unofficial fix for [*Yuyuko is suffering from lack of appetite*](https://store.steampowered.com/app/2941200/) (Steam) / 『幽幽子大人食欲不振』非公式修正ツール / 《幽幽子大人食欲不振》非官方修复工具
 Not affiliated with the developer (16air). This tool was made with the help of AI (Claude).
 
 **Download:** [Releases](../../releases/latest) → `YuyukoFix_v1.0.zip`
@@ -11,7 +11,7 @@ Not affiliated with the developer (16air). This tool was made with the help of A
 
 ## 日本語
 
-有志による**非公式**の修正ツールです。ゲームの作者（16air）とは関係ありません。
+『幽幽子大人食欲不振』の、有志による**非公式**の修正ツールです。ゲームの作者（16air）とは関係ありません。
 このツールはAI（Claude）を使って作成しました。
 
 ### 直せる症状
@@ -41,7 +41,7 @@ Not affiliated with the developer (16air). This tool was made with the help of A
 
 ## 中文
 
-玩家制作的**非官方**修复工具，与游戏作者（16air）无关。本工具使用 AI（Claude）制作。
+玩家制作的《幽幽子大人食欲不振》**非官方**修复工具，与游戏作者（16air）无关。本工具使用 AI（Claude）制作。
 
 ### 可以修复的问题
 
@@ -70,7 +70,7 @@ Not affiliated with the developer (16air). This tool was made with the help of A
 
 ## English
 
-An **unofficial** fan-made fix, not affiliated with the developer (16air). Made with the help of AI (Claude).
+An **unofficial** fan-made fix for *Yuyuko is suffering from lack of appetite*, not affiliated with the developer (16air). Made with the help of AI (Claude).
 
 ### What it fixes
 
